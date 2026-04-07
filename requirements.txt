@@ -1,0 +1,17 @@
+# Core Numerical & Data Handling
+numpy
+pandas
+
+# Machine Learning & Computer Vision
+torch
+torchvision
+opencv-python
+Pillow
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Deployment & Utilities
+# streamlit  # Uncomment if you are building the Streamlit app now
