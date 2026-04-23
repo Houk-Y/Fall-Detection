@@ -102,8 +102,8 @@ fall-detection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/fall-detection.git
-cd fall-detection
+git clone https://github.com/Houk-Y/Fall-Detection.git
+cd Fall-Detection
 ```
 
 ### 2. Install dependencies
